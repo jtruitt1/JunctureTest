@@ -13,6 +13,7 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q267107"> <!-- Lucretia Mott -->
 
 # Sample visual essay
 
