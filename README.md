@@ -3,7 +3,7 @@
 <param ve-config 
        title="Lucretia Mott"
        author="James Truitt"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://digitalcollections.tricolib.brynmawr.edu/iiif/2/sc:262376~JP2~/full/pct:100/0/default.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
