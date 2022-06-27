@@ -28,7 +28,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 Lucretia Mott was a rad women's rights activist.[^1]
 <param ve-compare curtain 
        url="https://stor.artstor.org/stor/10970784-2155-498d-8b05-d8586b1f67d0" 
-       label="Lucretia Mott 1>
+       label="Lucretia Mott 1">
 <param ve-compare 
        url="https://stor.artstor.org/stor/1420f054-9ba2-427b-b007-6aa22a7e785d" 
        label="Cafe Nero High Street (pre 1918)" 
