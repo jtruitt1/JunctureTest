@@ -38,7 +38,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map zoom="11">
+<param ve-map zoom="5" center="39.833333, -98.583333">
 <param ve-map-layer geojson title="Blood Lead Levels" url="child_blood_lead_levels_by_ct.geojson">
 
 ## Multiple viewers
